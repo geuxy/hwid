@@ -6,6 +6,9 @@ import java.net.URL;
 import java.security.MessageDigest;
 import java.util.Scanner;
 
+/** Hwid Util
+ * @author NapoleonZoomberparts
+ */
 public class Hwid {
 
     public boolean isWhitelisted() {
